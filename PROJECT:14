@@ -5,7 +5,7 @@
     "colab": {
       "provenance": [],
       "mount_file_id": "1ZlcuuM966cnCot_kEyJR-yw8ScfltweB",
-      "authorship_tag": "ABX9TyOakXwovF+Hw33s4+G2pam7",
+      "authorship_tag": "ABX9TyOLr7TOwfnZeWzwRbbl3jpZ",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -31,13 +31,12 @@
       "cell_type": "code",
       "source": [
         "#NAME:VANSH SAINI\n",
-        "#SECTION:CSE AIML6\n",
-        "#ADMISSION NO.:2026B15310388\n",
-        "#GROUP:07\n",
-        "#TITLE:MARKET SELLER & PRODUCT PERFORMANCE"
+        "#ADM NO.:2026B15310388\n",
+        "#SECRION:AIML6\n",
+        "#TITLE:MARKETPLACE SELLER & PRODUCT PERFORMANCE"
       ],
       "metadata": {
-        "id": "FGDh6OTAIJfy"
+        "id": "gbfvR2MKjTKA"
       },
       "execution_count": null,
       "outputs": []
